@@ -1,0 +1,9 @@
+﻿  Assignment.cpp
+C:\Users\Owner\Documents\Graphics Submission 2\Source Code\graphics_examples\Assignment2.5\Assignment.cpp(147,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Owner\Documents\Graphics Submission 2\Source Code\graphics_examples\Assignment2.5\Assignment.cpp(577,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Owner\Documents\Graphics Submission 2\Source Code\graphics_examples\Assignment2.5\Assignment.cpp(578,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Owner\Documents\Graphics Submission 2\Source Code\graphics_examples\Assignment2.5\Assignment.cpp(582,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Documents\Graphics Submission 2\Source Code\graphics_examples\Assignment2.5\Assignment.cpp(583,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Documents\Graphics Submission 2\Source Code\graphics_examples\Assignment2.5\Assignment.cpp(584,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Owner\Documents\Graphics Submission 2\Source Code\graphics_examples\Assignment2.5\Assignment.cpp(585,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Assignment2.5.vcxproj -> C:\Users\Owner\Documents\Graphics Submission 2\Source Code\graphics_examples\x64\Debug\Assignment2.5.exe
